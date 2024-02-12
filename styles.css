@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+:root {
+    background-color: rgb(135, 206, 235);
+}
+.first-child{
+	color:white;
+	background-color:black;
+}
+.nth-child{
+	color:pink;
+}
+.last-child{
+	color:red;
+}
+.ul{
+	background-color:gray;
+	padding:10px;
+	width:50%;
+	
+}
+.first{
+	background-color:white;
+	font-size: 22px;
+}
+.second{
+	background-color:pink;
+}
+.third{
+	background-color:white;
+	font-size: 22px;
+}
